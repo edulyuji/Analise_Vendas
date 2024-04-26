@@ -22,6 +22,9 @@ Este repositório contém a análise das vendas da Empresa XXXXX realizada no Po
 ## Resultados
 - **Análise de Vendas Mensal e Anual:** Foram realizadas análises tanto mensais quanto anuais para compreender a performance da empresa ao longo do tempo.
 
+## Acesso ao Dashboard
+Você pode acessar o dashboard completo da análise de vendas no Power BI através do seguinte link: [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiYmY4OGYyMWYtNGY2Yy00ZTcwLWIwNWEtOTkwOGFhYTU1MTIyIiwidCI6IjBkOTg5NDA2LWFiODMtNDkwYy05MTdmLTg0NTk5YzI5ZDA0MiJ9&pageName=ReportSection)
+
 ## Como utilizar este repositório
 1. Os arquivos do Power BI utilizados para a análise podem ser encontrados no diretório `power_bi`.
 2. Os dados brutos utilizados no Power BI estão disponíveis no diretório `dados`.
